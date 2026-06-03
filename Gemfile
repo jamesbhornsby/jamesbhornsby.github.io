@@ -7,7 +7,10 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem "csv"
+  gem "bigdecimal"
 end
 
 gem 'github-pages'
+gem "tzinfo-data", platforms: [:windows]
 gem 'connection_pool', '2.5.0'
