@@ -4,7 +4,7 @@ excerpt: "Passion project and application of linear algebra, vector math, and gr
 collection: portfolio
 ---
 
-This is an ongoing endeavor using OpenGL to combine my knowledge of programming and mathmetics along with my interest in 3D physics and celestial bodies. I am applying my skills with linear algebra to create perspective as well dynamically apply a tint to the textures, while I am also using the vector math that I practiced extensively in Cal III to create and manipulate 3D objects. 
+This is an ongoing endeavor using OpenGL to combine my knowledge of programming and mathmetics along with my interest in 3D physics and celestial bodies. Here, I am applying my skills with linear algebra to create perspective as well dynamically apply a tint to the textures, while I am also using the vector math that I practiced extensively in Cal III to create and manipulate 3D objects. 
 
 <img src="/images/spinningCubesDemo.gif" width="700">
 
