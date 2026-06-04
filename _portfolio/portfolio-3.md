@@ -4,7 +4,7 @@ excerpt: "Final project for COSC 1437 (Introduction to Programming). <br/><img s
 collection: portfolio
 ---
 
-This fantasy RPG was made for my final grade in COSC 1437. It is a technical demonstration of various programming concepts such as memory management, inheritance, and polymorphism. This was my first real project in C++ and one of the most fun I have worked on. It certainly made me made me love the language.
+This fantasy RPG was made for my final grade in COSC 1437. It is a technical demonstration of various programming concepts such as memory management, inheritance, and polymorphism. This was my first real project in C++ and one of the most fun I have worked on. It certainly made me love the language.
 
 <img src="/images/fantasyDiagram.png" width="300">
 
