@@ -3,9 +3,9 @@ title: "Media Digitizer"
 excerpt: "Combining Convolution Neural Networks and OCRs. <br/><img src='/images/mediaDigProcess.png' width='650'>"
 collection: portfolio
 ---
-The ideation of this project began while I was accessing rare, out of print essay collections on the Internet Archive. I discovered that the workflow used to convert photographed pages into easier to use formats was ineffective in rendering consistent results. 
+The ideation of this project began with me seeking rare, out of print essay collections on the Internet Archive. I discovered that the workflow used to convert photographed pages into friendlier formats was less than satisfy in consistency. 
 
-Thus, I thought that if enough data could be gathered such that the solution not only copied the information, but understood the relationship between the page's elements, then it was possible to reliabley recronstruct the given page into a flowed text format.
+I devised a plan to gather enough data such that the solution would not only copy the information, but understand the relationship between the page's elements. If this was done, then it was possible to reliabley recronstruct the a given page into a flowed text format with some simply scripting.
 
 When asked at the beginning of the Fall '25 semester whether I would be willing to lead a CodeCoogs team project through the development process, I shared my idea to combine deep learning neural with OCRs, and, after interviews, I was among those selected to lead.
 
@@ -15,6 +15,6 @@ By this time, my team had the majority of the groundwork on the projects biggest
 
 <br/><img src='/images/mediaDigDataset.png' width='650'>
 
-From there, it was a matter of training the convolutional neural network. With a database of over one thousand images, I performed incremental training and validation, monitering the improvement at each milestone. At last, the result we want: a page could be imaged and reliably transformed into flowed text.
+From there, it was a matter of training the convolutional neural network. With a database of over one thousand images, I performed incremental training and validation, monitering the improvements at each milestone. After a some fine tuning, I had the result that I was looking for: a page could be imaged and reliably transformed into flowed text.
 
 <br/><img src='/images/mediaDigProcess.png' width='650'>
