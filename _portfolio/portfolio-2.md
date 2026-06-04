@@ -19,4 +19,4 @@ From there, it was a matter of training the convolutional neural network (CNN). 
 
 <br/><img src='/images/mediaDigProcess.png' width='650'>
 
-Though we did not get beyound a simply web app for interaction, we built our solution on a CNN known for its low compute overhead and real-time performance. Due to this, our application could be integrated into, say, a mobile app using the camera to rapidly copy printed material.
+Though we did not get beyond a simply web app for interaction, we built our solution on a CNN known for its low compute overhead and real-time performance. Due to this, our application could be integrated into, say, a mobile app using the camera to rapidly copy printed material.
