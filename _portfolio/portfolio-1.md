@@ -8,6 +8,6 @@ This is an ongoing endeavor using OpenGL to combine my knowledge of programming 
 
 <img src="/images/spinningCubesDemo.gif" width="700">
 
-After some time spent learning GLSL and much time learning to load models, I am now applying calculus to 3D physics simulations and using OpenGL to render rather pleasing graphics.
+After some time spent learning GLSL and much time learning to load models, I am now applying calculus to 3D physics simulations and using OpenGL to render rather pleasant graphical representations.
 
 <img src="/images/rocks.png" width="700">
